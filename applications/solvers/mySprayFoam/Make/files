@@ -1,0 +1,3 @@
+mysprayFoam.C
+
+EXE = $(FOAM_APPBIN)/mysprayFoam
